@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AACXDBqkBeqlGvzWVXFq8mGRboGleitbWe64KbQaGI0=",
+  "Source": "AspCoreLogging",
+  "BasePath": "_content/AspCoreLogging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
